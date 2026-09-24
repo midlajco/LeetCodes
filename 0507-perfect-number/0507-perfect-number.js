@@ -10,10 +10,6 @@ var checkPerfectNumber = function(num) {
         if(num%i==0){
            sum =sum+i
         }
-        
-        
-       
-
     }
  if(sum==num){
     return true;
