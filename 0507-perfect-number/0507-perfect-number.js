@@ -11,6 +11,7 @@ var checkPerfectNumber = function(num) {
            sum =sum+i
         }
         
+        
        
 
     }
